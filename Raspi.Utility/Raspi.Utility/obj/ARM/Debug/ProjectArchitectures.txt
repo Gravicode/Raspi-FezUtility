@@ -1,0 +1,1 @@
+E:\Experiment\iot4bdg\Raspi.Utility\Raspi.Utility\Raspi.Utility.csproj;arm
